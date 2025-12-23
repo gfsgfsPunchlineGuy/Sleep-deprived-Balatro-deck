@@ -1,8 +1,8 @@
 --- STEAMODDED HEADER
---- MOD_NAME: FOJ: Sleep deprived
+--- MOD_NAME: SLD: Sleep deprived
 --- MOD_ID: sleep_deck
 --- PREFIX: sleep
---- MOD_AUTHOR: [Turpix, Bran]
+--- MOD_AUTHOR: [Gfsgfs]
 --- MOD_DESCRIPTION: The gang of g**ners are all here to play balatro with you ! Maker: Gfsgfs
 --- LOADER_VERSION_GEQ: 1.0.0
 --- VERSION: 2.0.0
@@ -61,5 +61,6 @@ SMODS.Atlas{
     path = 'sleep_icon.png',
     prefix_config = {key = false},
 }
+
 
 --big poo my beloved <3
