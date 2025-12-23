@@ -3,7 +3,7 @@
 --- MOD_ID: sleep_deck
 --- PREFIX: sleep
 --- MOD_AUTHOR: [Gfsgfs]
---- MOD_DESCRIPTION: The gang of g**ners are all here to play balatro with you ! Maker: Gfsgfs
+--- MOD_DESCRIPTION: The gang of g**ners are all here to play balatro with you !
 --- LOADER_VERSION_GEQ: 1.0.0
 --- VERSION: 2.0.0
 --- BADGE_COLOR: FC03DF
@@ -64,3 +64,4 @@ SMODS.Atlas{
 
 
 --big poo my beloved <3
+
